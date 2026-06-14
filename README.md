@@ -9,4 +9,4 @@ Interactive Power BI dashboard analyzing pricing, demand, inventory, stockout, r
 <br>
 <img src="https://github.com/nehahore/Retail-pricing-demand-inventory-dashboard/blob/3675d628f9039e30217a1cc2d583bd8e3d13b125/Screenshot%202026-06-14%20141307.png" alt="Image Description" width="600">
 <br>
-<img src="https://github.com/nehahore/Retail-pricing-demand-inventory-dashboard/blob/3675d628f9039e30217a1cc2d583bd8e3d13b125/Screenshot%202026-06-14%20141307.png" alt="Image Description" width="600">
+<img src="https://github.com/nehahore/Retail-pricing-demand-inventory-dashboard/blob/34f2b7aca916b2e355576cd28e330e40c122ecee/Screenshot%202026-06-14%20141412.png" alt="Image Description" width="600">
